@@ -23,4 +23,4 @@ For more information about me and my work, please visit [vuthanhthien.com](https
 >
 > Fun fact: this action created by github MCP Server.
 >
-> Look at some of my [projects](https://github.com/VuThanhThien?tab=repositories) bewlow
+> Look at some of my [projects](https://github.com/VuThanhThien?tab=repositories) below
