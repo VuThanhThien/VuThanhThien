@@ -15,16 +15,7 @@ For more information about me and my work, please visit [vuthanhthien.com](https
 ### 🛠️ Tech Stack  
 - ⚛️ ReactJS  
 - 🖼️ VueJS  
-- 🌱 Node.js (Express, NestJS)  
-- 🐹 Golang  
-- 🍃 MongoDB  
-- 🐘 PostgreSQL  
-- 🧠 Redis  
-- 🐳 Docker  
-- ☁️ AWS  
-- 🔄 CI/CD  
-- 🛠️ Git  
-- 🤖 AI
+- 🌱 Node.js (Express, NestJS)
 
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp2b2E4dGt3OXVxc2RvenllMjdxaXVocWo4NjV1NHE4NHZzazM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlRYTNtLKCFoNdjQLo/giphy.gif" width="270"/>
 
