@@ -17,10 +17,33 @@ For more information about me and my work, please visit [vuthanhthien.com](https
 - 🖼️ VueJS  
 - 🌱 Node.js (Express, NestJS)
 
+---
+
+### 🚀 Featured Projects
+
+#### [SuperSale](https://github.com/orgs/sotatek-supersale/repositories) — Sales Automation & AI Sales Training
+
+Full-stack platform for automating multi-platform sales outreach and training sales teams with AI voice agents.
+
+**Highlights**
+- Multi-platform messaging (Instagram, Twitter, TikTok, Telegram, LinkedIn)
+- Chrome extension for automated message delivery
+- AI voice agent for sales roleplay & coaching
+- Real-time campaign analytics & lead management
+
+**Stack:** Next.js 15 · React 19 · TypeScript · Node.js · Chrome Extension · LiveKit · Pinecone
+
+| Repo | Role |
+|------|------|
+| [web-supersale](https://github.com/sotatek-supersale/web-supersale) | Web dashboard |
+| [api-supersale](https://github.com/sotatek-supersale/api-supersale) | Backend API |
+| [extension-supersale](https://github.com/sotatek-supersale/extension-supersale) | Chrome extension |
+| [api-voice-agent](https://github.com/sotatek-supersale/api-voice-agent) | AI voice agent |
+
+---
+
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnp2b2E4dGt3OXVxc2RvenllMjdxaXVocWo4NjV1NHE4NHZzazM2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IlRYTNtLKCFoNdjQLo/giphy.gif" width="270"/>
 
 > Debugging is just mobile suit maintenance ⚙️
 >
-> Fun fact: this action created by github MCP Server.
->
-> Look at some of my [projects](https://github.com/VuThanhThien?tab=repositories) below
+> More repos on my [profile](https://github.com/VuThanhThien?tab=repositories)
